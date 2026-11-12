@@ -1,6 +1,7 @@
 # A5
 ## Authors
 Names: [student names here]
+
 Emails: [student emails here]
 
 ## Project Basics
@@ -32,6 +33,7 @@ Emails: [student emails here]
 
 ### Part 2: Basic features
 In a couple of sentences, describe your web app's ...
+
 7. re-usable components.
 
 
